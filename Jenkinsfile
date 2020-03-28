@@ -11,6 +11,7 @@ pipeline {
             steps {
                 echo "Stage 2 Processing"
             }
+		}
         
 		stage('Stage 3') {
 			parallel{
