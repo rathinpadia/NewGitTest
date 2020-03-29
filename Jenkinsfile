@@ -27,7 +27,7 @@ pipeline {
 				}
 				stage('Stage 3.3') {
 					steps {
-						echo "Stage 3.3 Processing changes with git checkin"
+						echo "Stage 3.3 Processing changes with git checkin1"
 					}
 				}
 			}
